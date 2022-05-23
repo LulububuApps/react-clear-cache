@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "minimist": "^1.2.5",
-    "use-persisted-state": "github:LulububuApps/use-persisted-state#bugfix/SKELETONREACT-564-bump-dependencies",
+    "use-persisted-state": "https://github.com/LulububuApps/use-persisted-state/tarball/bugfix/SKELETONREACT-564-bump-dependencies",
     "uuid": "^3.3.2"
   },
   "peerDependencies": {
